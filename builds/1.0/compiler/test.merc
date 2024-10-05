@@ -1,0 +1,16 @@
+bonjour
+baguette start
+baguette subb
+baguette prevs
+
+start = 1000
+subb = 7
+prevs = 1000
+
+make tea until(start < 0)
+    prevs = start
+    start = start - subb
+    talktoseniour>prevs - subb = start<
+wakebacktoreality
+
+au revoir
